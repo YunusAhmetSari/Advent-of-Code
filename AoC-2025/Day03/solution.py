@@ -19,5 +19,5 @@ def calculate_sum(data, num_batteries):
         total_sum += int(str_batteries)
     return total_sum
 
-print(calculate_sum(ls, 2))
-print(calculate_sum(ls, 12))
+print(calculate_sum(ls, 2)) # Part 1 - 2 Batteries
+print(calculate_sum(ls, 12)) # Part 2 - 12 Batteries
