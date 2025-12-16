@@ -1,3 +1,5 @@
+# Day 8 https://adventofcode.com/2025/day/8
+
 with open("input.txt") as f:
     ls = f.read().strip().split("\n")
 
